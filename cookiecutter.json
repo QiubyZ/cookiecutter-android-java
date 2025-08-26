@@ -1,0 +1,11 @@
+{
+  "project_name": "My Android App",
+  "package_name": "com.example.myandroidapp",
+  "package_dir": "{{ cookiecutter.package_name.replace('.', '/') }}",
+  "JAVA_VERSION":"21",
+  "min_sdk": "21",
+  "target_sdk": "34",
+  "compile_sdk": "34",
+  "version_code": "1",
+  "version_name": "1.0"
+}
