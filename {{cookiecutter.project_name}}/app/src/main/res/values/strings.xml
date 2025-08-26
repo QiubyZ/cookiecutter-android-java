@@ -1,21 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">QZ UserDict</string>
-    <string name="dialog_title">Info</string>
-    <string name="dialog_messages">Enable Virtual Keyboard QZ UserDict </string>
-    <string name="dialog_goto">Goto Settings</string>
-    <string name="dialog_dismis">Exit App</string>
-    <string name="deleteall">Delete All Dictionary</string>
-    <string name ="input_panjang">Lenght of Character</string>
-    <string name="input_words">Words</string>
-    <string name="default_web_client_id">4A:C5:A7:F8:20:6D:29:79:8E:7A:FA:82:96:8B:C7:C3:B1:65:5A:EA</string>
-    <string name="input_keys">ShortCut Keys</string>
-    <string name="Add">Add</string>
-   <string name="exportDict">Export</string>
-    <string name="warning_words">Kata lebih dari panjang yang ditargetkan</string>
-   <string name="importDict">Import</string>
-    <string name="warning_lenght">Aturan Google panjang kata tidak lebih dari 101</string>
-    <string name="submit">Submit</string>
-    <string name="cancel">Cancel</string>
-    <string name="sync">Sync Data</string>
+    <string name="app_name">{{ cookiecutter.project_name }}</string>
 </resources>
